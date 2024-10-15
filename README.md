@@ -34,6 +34,8 @@ To run the Note Taker application locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/note-taker.git
    cd note-taker
+   npm install uuid
+   npm start
 
 
 ## Screenshot 
