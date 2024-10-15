@@ -37,6 +37,8 @@ To run the Note Taker application locally, follow these steps:
    npm install uuid
    npm start
 
+### Link to Application
+https://note-taker-2-g27m.onrender.com/
 
 ## Screenshot 
 ![image](https://github.com/user-attachments/assets/4768aa2e-6195-463e-9143-723496733443)
